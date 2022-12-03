@@ -2546,31 +2546,6 @@ int main() {
   auto board = ReadBoardFile("1.board");
   PrintBoard(board);
 }
-
 ```
 ---
-
-<details>
-<summary>Output</summary>
-
-```txt
-
-```
-</details>
-
-<details>
-<summary>Solution</summary>
-
-```cpp .numberLines
-
-```
-
-<details>
-<summary>Output</summary>
-
-```txt
-
-```
-</details>
-</details>
 
